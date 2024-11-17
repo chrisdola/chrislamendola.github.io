@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "Chris LaMendola's Blog",
+    "base_url": "https://hydrogen-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/chris_lamendola.jpg"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "",
+    "image": "/videos/terminal_home_page.mp4",
+    "designation": "Automation Enthusiast",
+    "bio": "Hello! My name is Chris LaMendola and I'm hooked on automating literally everything in the IAC/DevOps space."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": ""
+  },
+
+  "metadata": {
+    "meta_author": "ChrisLaMendola",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "chris lamendolas blog"
+  }
+}

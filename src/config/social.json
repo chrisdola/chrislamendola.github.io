@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/chrisdola"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/chris-lamendola-114b7161/"
+    }
+  ]
+}
